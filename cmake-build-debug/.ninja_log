@@ -1,0 +1,8 @@
+# ninja log v5
+14	151	7190498013493176	CMakeFiles/Batalla_Naval.dir/Barcos.cpp.obj	d37613e399f22efb
+1	668	7190498018526893	CMakeFiles/Batalla_Naval.dir/Jugador.cpp.obj	1be7f52468982b5b
+19	685	7190498018843454	CMakeFiles/Batalla_Naval.dir/Tablero.cpp.obj	46bda31852d5a036
+7	728	7190498019264121	CMakeFiles/Batalla_Naval.dir/main.cpp.obj	93eb31b8c606371e
+25	743	7190498019426395	CMakeFiles/Batalla_Naval.dir/Maquina.cpp.obj	aeb5186b9128c34f
+30	779	7190498019791646	CMakeFiles/Batalla_Naval.dir/Humano.cpp.obj	96def78162ae84fe
+779	972	7190498021662455	Batalla_Naval.exe	e8e05478c127d6ef
